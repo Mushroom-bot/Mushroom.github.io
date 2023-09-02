@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>MUSHOS</title>
+  
+  <subtitle>Mushroom的OS聚集地</subtitle>
+  <link href="https://mushroom-bot.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://mushroom-bot.github.io/"/>
+  <updated>2023-09-01T04:47:43.608Z</updated>
+  <id>https://mushroom-bot.github.io/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>系统问题解决站</title>
+    <link href="https://mushroom-bot.github.io/2023/09/01/%E7%B3%BB%E7%BB%9F%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E7%AB%99/"/>
+    <id>https://mushroom-bot.github.io/2023/09/01/%E7%B3%BB%E7%BB%9F%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E7%AB%99/</id>
+    <published>2023-09-01T03:04:26.000Z</published>
+    <updated>2023-09-01T04:47:43.608Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;这里是一个致力于收集问题·解决问题的站点&quot;&gt;&lt;a href=&quot;#这里是一个致力于收集问题·解决问题的站点&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://mushroom-bot.github.io/2023/09/01/hello-world/"/>
+    <id>https://mushroom-bot.github.io/2023/09/01/hello-world/</id>
+    <published>2023-09-01T03:02:31.208Z</published>
+    <updated>2023-09-01T03:01:59.199Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
